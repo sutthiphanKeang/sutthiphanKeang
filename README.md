@@ -1,5 +1,6 @@
-### Hi there, I'm Sutthiphan Prananpaeng or Keang 👋
+# Hi there, I'm Sutthiphan Prananpaeng or Keang 👋
 
+### My Portfolio: http://sutthiphankeang.github.io/Resume_Web
 
 
 <!--
@@ -16,4 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+## Stat
+![](https://raw.githubusercontent.com/sutthiphanKeang/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sutthiphanKeang/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+## Contact
+<a href="https://www.linkedin.com/in/sutthiphan-prananpaeng-88633b232/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sutthiphan_pranan@cmu.ac.th" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
