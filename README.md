@@ -1,6 +1,10 @@
 # Hi there, I'm Sutthiphan Prananpaeng or Keang 👋
+### I'm 3rd year student in Computer Science, Chiang Mai University, Currently focusing on Web-Developer & Mobile Application fields.
+### You can check out my portfolio [Here](http://sutthiphankeang.github.io/Resume_Web)!
+### And my resume is [Here](https://drive.google.com/file/d/1w7P_2Pkxz56vrXUD2gFPK_ftIapAJMbM/view?usp=share_link)!
 
-### My Portfolio: http://sutthiphankeang.github.io/Resume_Web
+
+
 
 
 <!--
