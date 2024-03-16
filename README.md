@@ -5,7 +5,7 @@
 - 🔭 Base in Chiang Mai, Thailand.
 
 ### You can check out my portfolio [Here](http://sutthiphankeang.github.io/Resume_Web)!
-### And my resume is [Here](https://o365cmu-my.sharepoint.com/:b:/g/personal/sutthiphan_pranan_cmu_ac_th/EeBBAiD3b1VMjjlb35rcglAB-zffA_1SdzreRL1e1LeiCA?e=6Imx58)!
+### And my CV is [Here](https://o365cmu-my.sharepoint.com/:b:/g/personal/sutthiphan_pranan_cmu_ac_th/ETY652h2-kZKvUQtx33z82wB7Qj6CpTZxFQ9KhLMYeGYMw?e=oCVnj3)!
 
 
 
