@@ -1,5 +1,5 @@
 # Hi there, I'm Sutthiphan Prananpaeng or Keang 👋
-### I'm 4th year student in Computer Science, Chiang Mai University, Currently focusing on Back-End developer, Full-Stack developer  position or related.
+### I'm a graduate student at Chiang Mai University, with a Bachelor's in Computer Science and a minor in General Business. Previously, I worked as a Full-Stack Developer at Ascend Group during a cooperative education placement.
 - ⚡ Let's talk about New technology and Apple product.
 - 📫 Contact me: Sutthiphan_pranan@cmu.ac.th
 - 🔭 Base in Chiang Mai, Thailand.
