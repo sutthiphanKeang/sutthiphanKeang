@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Stat
+## Stats
 ![](https://raw.githubusercontent.com/sutthiphanKeang/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/sutthiphanKeang/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[![Sutthiphan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sutthiphanKeang)](https://github.com/anuraghazra/github-readme-stats)
