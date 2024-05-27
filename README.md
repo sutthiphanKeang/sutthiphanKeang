@@ -1,11 +1,10 @@
-# Hi there, I'm Sutthiphan Prananpaeng or Keang 👋
+# Hi there, I'm Sutthiphan Prananpaeng or Keng 👋
 ### I'm a graduate student at Chiang Mai University, with a Bachelor's in Computer Science and a minor in General Business. Previously, I worked as a Full-Stack Developer at Ascend Group during a cooperative education placement.
-- ⚡ Let's talk about New technology and Apple product.
-- 📫 Contact me: Sutthiphan_pranan@cmu.ac.th
+- ⚡ LinkedIn: Sutthiphan Prananpaeng
+- 📫 Contact me: Sutthiphan.pra@gmail.com
 - 🔭 Base in Chiang Mai, Thailand.
 
-### You can check out my portfolio [Here](http://sutthiphankeang.github.io/Resume_Web)!
-### And my CV is [Here](https://o365cmu-my.sharepoint.com/:b:/g/personal/sutthiphan_pranan_cmu_ac_th/Ef3JEYn3sEVCn8b2eRygfBUBDWGB6S77L56saVB3TRA_RA?e=3sDSDz)!
+### You can check out my CV: [Here](https://o365cmu-my.sharepoint.com/:b:/g/personal/sutthiphan_pranan_cmu_ac_th/Ef3JEYn3sEVCn8b2eRygfBUBDWGB6S77L56saVB3TRA_RA?e=3sDSDz)!
 
 
 
